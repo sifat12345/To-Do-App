@@ -1,10 +1,14 @@
 [
     {
-        "task": "d",
+        "task": "Go To Class",
         "done": true
     },
     {
-        "task": "Sifat",
+        "task": "Go To Market",
+        "done": false
+    },
+    {
+        "task": "Go To Office",
         "done": false
     }
 ]
